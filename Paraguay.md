@@ -128,8 +128,10 @@ Continent :: [[South-America]]
 Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]  
 [Alcohol-l::7.9] 
 [Language-Id::492] 
-[geo-lon::-57.67] 
-[geo-lat::-25.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-57.67] 
+[has_place_latitude::-25.27] 
 
 
 
