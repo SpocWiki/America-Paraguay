@@ -40,11 +40,16 @@ markerFolder: ./Cordillera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Cordillera|Cordillera]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Cordillera.public|Cordillera.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Cordillera.internal|Cordillera.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Cordillera.protect|Cordillera.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Cordillera.private|Cordillera.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Cordillera.personal|Cordillera.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Cordillera.secret|Cordillera.secret]] 
+
+### [Cordillera.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.public.md) 
+
+### [Cordillera.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.internal.md) 
+
+### [Cordillera.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.protect.md) 
+
+### [Cordillera.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.private.md) 
+
+### [Cordillera.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.personal.md) 
+
+### [Cordillera.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayCordillera.secret.md)
 

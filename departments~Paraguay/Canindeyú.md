@@ -40,11 +40,16 @@ markerFolder: ./Canindeyú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Canindeyú|Canindeyú]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Canindeyú.public|Canindeyú.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Canindeyú.internal|Canindeyú.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Canindeyú.protect|Canindeyú.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Canindeyú.private|Canindeyú.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Canindeyú.personal|Canindeyú.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Canindeyú.secret|Canindeyú.secret]] 
+
+### [Canindeyú.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.public.md) 
+
+### [Canindeyú.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.internal.md) 
+
+### [Canindeyú.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.protect.md) 
+
+### [Canindeyú.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.private.md) 
+
+### [Canindeyú.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.personal.md) 
+
+### [Canindeyú.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayCanindeyú.secret.md)
 

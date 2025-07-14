@@ -40,11 +40,16 @@ markerFolder: ./Ñeembucú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Ñeembucú|Ñeembucú]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.public|Ñeembucú.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.internal|Ñeembucú.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.protect|Ñeembucú.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.private|Ñeembucú.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.personal|Ñeembucú.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.secret|Ñeembucú.secret]] 
+
+### [Ñeembucú.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.public.md) 
+
+### [Ñeembucú.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.internal.md) 
+
+### [Ñeembucú.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.protect.md) 
+
+### [Ñeembucú.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.private.md) 
+
+### [Ñeembucú.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.personal.md) 
+
+### [Ñeembucú.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayÑeembucú.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Paraguarí/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Paraguarí|Paraguarí]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Paraguarí.public|Paraguarí.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Paraguarí.internal|Paraguarí.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Paraguarí.protect|Paraguarí.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Paraguarí.private|Paraguarí.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Paraguarí.personal|Paraguarí.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Paraguarí.secret|Paraguarí.secret]] 
+
+### [Paraguarí.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.public.md) 
+
+### [Paraguarí.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.internal.md) 
+
+### [Paraguarí.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.protect.md) 
+
+### [Paraguarí.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.private.md) 
+
+### [Paraguarí.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.personal.md) 
+
+### [Paraguarí.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguarí.secret.md)
 

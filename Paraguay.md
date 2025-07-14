@@ -132,11 +132,17 @@ Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]
 [has_place_latitude::-25.27] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Paraguay|Paraguay]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay.internal|Paraguay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay.protect|Paraguay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay.private|Paraguay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay.personal|Paraguay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay.secret|Paraguay.secret]] 
+
+### [Paraguay.public](/_public/\Earth\Continent\America~South\ParaguayParaguay.public.md) 
+
+### [Paraguay.internal](/_internal/\Earth\Continent\America~South\ParaguayParaguay.internal.md) 
+
+### [Paraguay.protect](/_protect/\Earth\Continent\America~South\ParaguayParaguay.protect.md) 
+
+### [Paraguay.private](/_private/\Earth\Continent\America~South\ParaguayParaguay.private.md) 
+
+### [Paraguay.personal](/_personal/\Earth\Continent\America~South\ParaguayParaguay.personal.md) 
+
+### [Paraguay.secret](/_secret/\Earth\Continent\America~South\ParaguayParaguay.secret.md)
+

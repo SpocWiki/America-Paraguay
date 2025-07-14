@@ -40,11 +40,16 @@ markerFolder: ./Caaguazú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Caaguazú|Caaguazú]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Caaguazú.public|Caaguazú.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Caaguazú.internal|Caaguazú.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Caaguazú.protect|Caaguazú.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Caaguazú.private|Caaguazú.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Caaguazú.personal|Caaguazú.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Caaguazú.secret|Caaguazú.secret]] 
+
+### [Caaguazú.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.public.md) 
+
+### [Caaguazú.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.internal.md) 
+
+### [Caaguazú.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.protect.md) 
+
+### [Caaguazú.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.private.md) 
+
+### [Caaguazú.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.personal.md) 
+
+### [Caaguazú.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayCaaguazú.secret.md)
 

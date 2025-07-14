@@ -40,11 +40,16 @@ markerFolder: ./Concepción/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Concepción|Concepción]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Concepción.public|Concepción.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Concepción.internal|Concepción.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Concepción.protect|Concepción.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Concepción.private|Concepción.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Concepción.personal|Concepción.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Concepción.secret|Concepción.secret]] 
+
+### [Concepción.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.public.md) 
+
+### [Concepción.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.internal.md) 
+
+### [Concepción.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.protect.md) 
+
+### [Concepción.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.private.md) 
+
+### [Concepción.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.personal.md) 
+
+### [Concepción.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayConcepción.secret.md)
 

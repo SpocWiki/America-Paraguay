@@ -40,11 +40,16 @@ markerFolder: ./Asunción/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Asunción|Asunción]] 
-- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Asunción.public|Asunción.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Asunción.internal|Asunción.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Asunción.protect|Asunción.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Asunción.private|Asunción.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Asunción.personal|Asunción.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Asunción.secret|Asunción.secret]] 
+
+### [Asunción.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.public.md) 
+
+### [Asunción.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.internal.md) 
+
+### [Asunción.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.protect.md) 
+
+### [Asunción.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.private.md) 
+
+### [Asunción.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.personal.md) 
+
+### [Asunción.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayAsunción.secret.md)
 
