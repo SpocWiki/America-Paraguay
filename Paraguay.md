@@ -134,15 +134,17 @@ Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]
 
 ## Confidential Links & Embeds: 
 
-### [Paraguay.public](/_public/\Earth\Continent\America~South\ParaguayParaguay.public.md) 
+### [Paraguay](/_Standards/Earth/Continent/America~South/Paraguay/Paraguay.md) 
 
-### [Paraguay.internal](/_internal/\Earth\Continent\America~South\ParaguayParaguay.internal.md) 
+### [Paraguay.public](/_public/Earth/Continent/America~South/Paraguay/Paraguay.public.md) 
 
-### [Paraguay.protect](/_protect/\Earth\Continent\America~South\ParaguayParaguay.protect.md) 
+### [Paraguay.internal](/_internal/Earth/Continent/America~South/Paraguay/Paraguay.internal.md) 
 
-### [Paraguay.private](/_private/\Earth\Continent\America~South\ParaguayParaguay.private.md) 
+### [Paraguay.protect](/_protect/Earth/Continent/America~South/Paraguay/Paraguay.protect.md) 
 
-### [Paraguay.personal](/_personal/\Earth\Continent\America~South\ParaguayParaguay.personal.md) 
+### [Paraguay.private](/_private/Earth/Continent/America~South/Paraguay/Paraguay.private.md) 
 
-### [Paraguay.secret](/_secret/\Earth\Continent\America~South\ParaguayParaguay.secret.md)
+### [Paraguay.personal](/_personal/Earth/Continent/America~South/Paraguay/Paraguay.personal.md) 
+
+### [Paraguay.secret](/_secret/Earth/Continent/America~South/Paraguay/Paraguay.secret.md)
 

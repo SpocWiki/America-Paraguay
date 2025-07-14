@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Asuncion.public](/_public/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.public.md) 
+### [Asuncion](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.md) 
 
-### [Asuncion.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.internal.md) 
+### [Asuncion.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.public.md) 
 
-### [Asuncion.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.protect.md) 
+### [Asuncion.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.internal.md) 
 
-### [Asuncion.private](/_private/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.private.md) 
+### [Asuncion.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.protect.md) 
 
-### [Asuncion.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.personal.md) 
+### [Asuncion.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.private.md) 
 
-### [Asuncion.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~Paraguay\Presidente_Hayes\CityAsuncion.secret.md)
+### [Asuncion.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.personal.md) 
+
+### [Asuncion.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.secret.md)
 

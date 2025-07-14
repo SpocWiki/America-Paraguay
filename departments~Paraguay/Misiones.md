@@ -41,15 +41,17 @@ markerFolder: ./Misiones/
 
 ## Confidential Links & Embeds: 
 
-### [Misiones.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.public.md) 
+### [Misiones](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.md) 
 
-### [Misiones.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.internal.md) 
+### [Misiones.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.public.md) 
 
-### [Misiones.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.protect.md) 
+### [Misiones.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.internal.md) 
 
-### [Misiones.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.private.md) 
+### [Misiones.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.protect.md) 
 
-### [Misiones.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.personal.md) 
+### [Misiones.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.private.md) 
 
-### [Misiones.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayMisiones.secret.md)
+### [Misiones.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.personal.md) 
+
+### [Misiones.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.secret.md)
 

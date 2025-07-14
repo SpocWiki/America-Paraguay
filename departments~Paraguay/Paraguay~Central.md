@@ -41,15 +41,17 @@ markerFolder: ./Paraguay~Central/
 
 ## Confidential Links & Embeds: 
 
-### [Paraguay~Central.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.public.md) 
+### [Paraguay~Central](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.md) 
 
-### [Paraguay~Central.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.internal.md) 
+### [Paraguay~Central.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.public.md) 
 
-### [Paraguay~Central.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.protect.md) 
+### [Paraguay~Central.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.internal.md) 
 
-### [Paraguay~Central.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.private.md) 
+### [Paraguay~Central.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.protect.md) 
 
-### [Paraguay~Central.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.personal.md) 
+### [Paraguay~Central.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.private.md) 
 
-### [Paraguay~Central.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayParaguay~Central.secret.md)
+### [Paraguay~Central.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.personal.md) 
+
+### [Paraguay~Central.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.secret.md)
 

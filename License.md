@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\ParaguayLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Paraguay/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\ParaguayLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Paraguay/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\ParaguayLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Paraguay/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\ParaguayLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Paraguay/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\ParaguayLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Paraguay/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\ParaguayLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Paraguay/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Paraguay/License.secret.md)
 

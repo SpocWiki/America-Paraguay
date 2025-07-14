@@ -41,15 +41,17 @@ markerFolder: ./Amambay/
 
 ## Confidential Links & Embeds: 
 
-### [Amambay.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.public.md) 
+### [Amambay](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.md) 
 
-### [Amambay.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.internal.md) 
+### [Amambay.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.public.md) 
 
-### [Amambay.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.protect.md) 
+### [Amambay.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.internal.md) 
 
-### [Amambay.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.private.md) 
+### [Amambay.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.protect.md) 
 
-### [Amambay.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.personal.md) 
+### [Amambay.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.private.md) 
 
-### [Amambay.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayAmambay.secret.md)
+### [Amambay.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.personal.md) 
+
+### [Amambay.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Amambay.secret.md)
 

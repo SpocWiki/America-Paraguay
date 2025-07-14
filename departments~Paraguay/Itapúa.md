@@ -41,15 +41,17 @@ markerFolder: ./Itapúa/
 
 ## Confidential Links & Embeds: 
 
-### [Itapúa.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.public.md) 
+### [Itapúa](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.md) 
 
-### [Itapúa.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.internal.md) 
+### [Itapúa.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.public.md) 
 
-### [Itapúa.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.protect.md) 
+### [Itapúa.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.internal.md) 
 
-### [Itapúa.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.private.md) 
+### [Itapúa.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.protect.md) 
 
-### [Itapúa.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.personal.md) 
+### [Itapúa.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.private.md) 
 
-### [Itapúa.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayItapúa.secret.md)
+### [Itapúa.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.personal.md) 
+
+### [Itapúa.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.secret.md)
 

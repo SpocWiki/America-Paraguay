@@ -41,15 +41,17 @@ markerFolder: ./Boquerón/
 
 ## Confidential Links & Embeds: 
 
-### [Boquerón.public](/_public/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.public.md) 
+### [Boquerón](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.md) 
 
-### [Boquerón.internal](/_internal/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.internal.md) 
+### [Boquerón.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.public.md) 
 
-### [Boquerón.protect](/_protect/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.protect.md) 
+### [Boquerón.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.internal.md) 
 
-### [Boquerón.private](/_private/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.private.md) 
+### [Boquerón.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.protect.md) 
 
-### [Boquerón.personal](/_personal/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.personal.md) 
+### [Boquerón.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.private.md) 
 
-### [Boquerón.secret](/_secret/\Earth\Continent\America~South\Paraguay\departments~ParaguayBoquerón.secret.md)
+### [Boquerón.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.personal.md) 
+
+### [Boquerón.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Boquerón.secret.md)
 
