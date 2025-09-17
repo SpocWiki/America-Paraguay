@@ -130,7 +130,7 @@ geojsonFolder: ./Asunción/
 markerFolder: ./Asunción/
 ```
 
-#is_/same_as :: [[../../../../../WikiData/WD~Asunción,2933|WD~Asunción,2933]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Asunción,2933|WD~Asunción,2933]] 
 
 
 ## #has_/text_of_/abstract 
