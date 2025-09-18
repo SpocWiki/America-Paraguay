@@ -124,7 +124,7 @@ postal_code: 1001–1925
 ```leaflet
 id: Asunción
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Asunción/
 markerFolder: ./Asunción/

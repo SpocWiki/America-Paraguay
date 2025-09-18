@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Presidente_Hayes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Presidente_Hayes/
 markerFolder: ./Presidente_Hayes/
