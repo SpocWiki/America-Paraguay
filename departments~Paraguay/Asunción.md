@@ -19,11 +19,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 has_id_wikidata: Q2933
 Dewey_Decimal_Classification: 2--892121
 Libris_URI: 42gjht6n42mkcqs
@@ -68,7 +68,7 @@ different_from:
   - "[[_Standards/WikiData/WD~Asunción,20576745]]"
   - "[[_Standards/WikiData/WD~Asunción,49857015]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
