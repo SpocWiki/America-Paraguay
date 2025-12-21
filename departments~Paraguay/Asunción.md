@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Asunción
+has_id_wikidata: Q2933
 location:
   - -25.3
   - -57.6
@@ -12,22 +15,19 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Asunción
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q2933
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 Dewey_Decimal_Classification: 2--892121
 Libris_URI: 42gjht6n42mkcqs
-P8189: "987007548080205171"
+P8189: 987007548080205171
 Commons_gallery: Asunción
 Commons_category: Asunción
 Telegram_username: muniasu
@@ -41,68 +41,68 @@ TikTok_username: asuncionmuni
 Facebook_username: asuncionmuni
 X_Twitter_username: asuncionmuni
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Puebla_City,125293]]"
-  - "[[_Standards/WikiData/WD~Chiba,170616]]"
-  - "[[_Standards/WikiData/WD~Campinas,171617]]"
-  - "[[_Standards/WikiData/WD~Trujillo,214173]]"
-  - "[[_Standards/WikiData/WD~Miami_Dade_County,468557]]"
-  - "[[_Standards/WikiData/WD~Chimbote,518431]]"
-  - "[[_Standards/WikiData/WD~Medina_de_Pomar,1614754]]"
-  - "[[_Standards/WikiData/WD~La_Paz,1491]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Algiers,3561]]"
-  - "[[_Standards/WikiData/WD~Curitiba,4361]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-  - "[[_Standards/WikiData/WD~Carrara,13372]]"
-  - "[[_Standards/WikiData/WD~Ragusa,13674]]"
-  - "[[_Standards/WikiData/WD~São_Paulo,174]]"
-  - "[[_Standards/WikiData/WD~Santo_Domingo,34820]]"
-  - "[[_Standards/WikiData/WD~La_Plata,44059]]"
-  - "[[_Standards/WikiData/WD~Resistencia,44206]]"
-  - "[[_Standards/WikiData/WD~Rosario,52535]]"
-named_after: "[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Paraguay_River,179396]]"
+  - '[[_Standards/WikiData/WD~Puebla_City,125293]]'
+  - '[[_Standards/WikiData/WD~Chiba,170616]]'
+  - '[[_Standards/WikiData/WD~Campinas,171617]]'
+  - '[[_Standards/WikiData/WD~Trujillo,214173]]'
+  - '[[_Standards/WikiData/WD~Miami_Dade_County,468557]]'
+  - '[[_Standards/WikiData/WD~Chimbote,518431]]'
+  - '[[_Standards/WikiData/WD~Medina_de_Pomar,1614754]]'
+  - '[[_Standards/WikiData/WD~La_Paz,1491]]'
+  - '[[_Standards/WikiData/WD~Taipei,1867]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Algiers,3561]]'
+  - '[[_Standards/WikiData/WD~Curitiba,4361]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+  - '[[_Standards/WikiData/WD~Carrara,13372]]'
+  - '[[_Standards/WikiData/WD~Ragusa,13674]]'
+  - '[[_Standards/WikiData/WD~São_Paulo,174]]'
+  - '[[_Standards/WikiData/WD~Santo_Domingo,34820]]'
+  - '[[_Standards/WikiData/WD~La_Plata,44059]]'
+  - '[[_Standards/WikiData/WD~Resistencia,44206]]'
+  - '[[_Standards/WikiData/WD~Rosario,52535]]'
+named_after: '[[_Standards/WikiData/WD~Assumption_of_Mary,162691]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Paraguay_River,179396]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Asuncion,314393]]"
-  - "[[_Standards/WikiData/WD~Asunción,20576745]]"
-  - "[[_Standards/WikiData/WD~Asunción,49857015]]"
+  - '[[_Standards/WikiData/WD~Asuncion,314393]]'
+  - '[[_Standards/WikiData/WD~Asunción,20576745]]'
+  - '[[_Standards/WikiData/WD~Asunción,49857015]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~border_city,902814]]"
-  - "[[_Standards/WikiData/WD~capital_region,1062177]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - '[[_Standards/WikiData/WD~border_city,902814]]'
+  - '[[_Standards/WikiData/WD~capital_region,1062177]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Capital_District,2723419]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Capital_District,2723419]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Capital_District,2723419]]"
-language_used: "[[_Standards/WikiData/WD~Maká,3281043]]"
+  - '[[_Standards/WikiData/WD~Capital_District,2723419]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Capital_District,2723419]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Capital_District,2723419]]'
+language_used: '[[_Standards/WikiData/WD~Maká,3281043]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Asunci%C3%B3n%20location%20map.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Asuncion%20Capital%20District%20in%20Paraguay.svg
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32106892,32106892]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Municipal_mayor_of_Asuncion,51831955]]"
-executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Asuncion,51833297]]"
-legislative_body: "[[_Standards/WikiData/WD~Municipal_Board_of_Asuncion,51839125]]"
-head_of_government: "[[_Standards/WikiData/WD~Óscar_Rodríguez,84501724]]"
-country: "[[_Standards/WikiData/WD~Paraguay,733]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32106892,32106892]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Municipal_mayor_of_Asuncion,51831955]]'
+executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Asuncion,51833297]]'
+legislative_body: '[[_Standards/WikiData/WD~Municipal_Board_of_Asuncion,51839125]]'
+head_of_government: '[[_Standards/WikiData/WD~Óscar_Rodríguez,84501724]]'
+country: '[[_Standards/WikiData/WD~Paraguay,733]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
 elevation_above_sea_level: 43
 area: 117
 population: 462241
-U_S_National_Archives_Identifier: "10044616"
+U_S_National_Archives_Identifier: 10044616
 coordinate_location: Point(-57.633333333 -25.3)
 official_website: https://www.asuncion.gov.py/
-OmegaWiki_Defined_Meaning: "457746"
-local_dialing_code: "021"
+OmegaWiki_Defined_Meaning: 457746
+local_dialing_code: 021
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Asuncion%20banner.jpg
 native_label: Nuestra Señora Santa María de la Asunción
 official_name: Nuestra Señora Santa María de la Asunción

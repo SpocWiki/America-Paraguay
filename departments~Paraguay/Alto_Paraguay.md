@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alto_Paraguay
+  - Alto Paraguay
 location:
   - -20.9
   - -58.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Alto_Paraguay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Alto_Paraguay

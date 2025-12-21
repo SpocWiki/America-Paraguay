@@ -8,21 +8,23 @@ aliases:
   - Guerra de la Triple Alianza
   - Guerra da Tríplice Aliança
   - Ñorairõ Triple Alianza Rehegua
+  - 1864-Paraguayan_War-1870
+  - 1864-Paraguayan War-1870
 has_id_wikidata: Q58947
 participant:
-  - "[[_Standards/WikiData/WD~Empire_of_Brazil,217230]]"
-  - "[[_Standards/WikiData/WD~Triple_Alliance,15051546]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-location: "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
-described_by_source: "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-has_cause: "[[_Standards/WikiData/WD~causes_for_the_Paraguayan_War,9712406]]"
+  - '[[_Standards/WikiData/WD~Empire_of_Brazil,217230]]'
+  - '[[_Standards/WikiData/WD~Triple_Alliance,15051546]]'
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Paraguay,733]]'
+  - '[[_Standards/WikiData/WD~Uruguay,77]]'
+location: '[[_Standards/WikiData/WD~Southern_Cone,236118]]'
+described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+has_cause: '[[_Standards/WikiData/WD~causes_for_the_Paraguayan_War,9712406]]'
 end_time: 1870-03-01T00:00:00Z
 start_time: 1864-12-27T00:00:00Z
 point_in_time: 1864-10-12T00:00:00Z
 number_of_deaths: 1000000
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tuyuti1.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escenas%20de%20la%20Guerra%20de%20la%20Triple%20Alianza.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D8%BA%D9%88%D8%A7%D9%8A.wav

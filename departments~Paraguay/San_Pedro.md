@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Pedro
+  - San Pedro
 location:
   - -24.2
   - -56.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Pedro
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_Pedro

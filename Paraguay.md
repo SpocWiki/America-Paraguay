@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Paraguay
+  - باراغواي
+  - 巴拉圭
+  - Парагвай
+  - the Republic of Paraguay
+  - la República del Paraguay
+  - Paraguay (el)
 location:
   - -25.27
   - -57.67
@@ -15,20 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Paraguay
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Paraguay
-  - باراغواي
-  - 巴拉圭
-  - Парагвай
-  - the Republic of Paraguay
-  - la República del Paraguay
-  - Paraguay (el)
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-PY
   - gn

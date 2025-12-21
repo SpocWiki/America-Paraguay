@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Presidente_Hayes
+  - Presidente Hayes
 location:
   - -23.7
   - -59
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Presidente_Hayes
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Presidente_Hayes

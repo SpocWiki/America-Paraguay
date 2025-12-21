@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alto_Paraná
+  - Alto Paraná
 location:
   - -25.4
   - -54.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Alto_Paraná
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Alto_Paraná

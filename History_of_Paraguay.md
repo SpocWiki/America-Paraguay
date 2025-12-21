@@ -1,12 +1,14 @@
 ---
 aliases:
   - history of Paraguay
+  - History_of_Paraguay
+  - History of Paraguay
 has_id_wikidata: Q1121772
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Paraguay,20320029]]"
-facet_of: "[[_Standards/WikiData/WD~Paraguay,733]]"
-Dewey_Decimal_Classification: "989"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Paraguay,20320029]]'
+facet_of: '[[_Standards/WikiData/WD~Paraguay,733]]'
+Dewey_Decimal_Classification: 989
 Commons_category: History of Paraguay
 ---
 
