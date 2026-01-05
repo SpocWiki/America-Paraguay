@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1537-01-01 
 aliases:
   - Asunción
 has_id_wikidata: Q2933

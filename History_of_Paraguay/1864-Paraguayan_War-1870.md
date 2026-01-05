@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1864-12-27 
+has_time_stopped: 1870-03-01 
 aliases:
   - Paraguayan War
   - Guerra del Paraguay
