@@ -40,17 +40,17 @@ markerFolder: ./Canindeyú/
 
 ## Confidential Links & Embeds: 
 
-### [Canindeyú](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú|Canindeyú]] 
 
-### [Canindeyú.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.public|Canindeyú.public]] 
 
-### [Canindeyú.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.internal|Canindeyú.internal]] 
 
-### [Canindeyú.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.protect|Canindeyú.protect]] 
 
-### [Canindeyú.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.private|Canindeyú.private]] 
 
-### [Canindeyú.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.personal|Canindeyú.personal]] 
 
-### [Canindeyú.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Canindeyú.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Canindeyú.secret|Canindeyú.secret]] 
 

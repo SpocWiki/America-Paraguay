@@ -40,17 +40,17 @@ markerFolder: ./Itapúa/
 
 ## Confidential Links & Embeds: 
 
-### [Itapúa](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa|Itapúa]] 
 
-### [Itapúa.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.public|Itapúa.public]] 
 
-### [Itapúa.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.internal|Itapúa.internal]] 
 
-### [Itapúa.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.protect|Itapúa.protect]] 
 
-### [Itapúa.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.private|Itapúa.private]] 
 
-### [Itapúa.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.personal|Itapúa.personal]] 
 
-### [Itapúa.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Itapúa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Itapúa.secret|Itapúa.secret]] 
 

@@ -4,17 +4,20 @@ aliases:
   - History_of_Paraguay
   - History of Paraguay
 has_id_wikidata: Q1121772
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Paraguay,20320029]]'
-facet_of: '[[_Standards/WikiData/WD~Paraguay,733]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Paraguay,20320029]]"
+facet_of: "[[_Standards/WikiData/WD~Paraguay,733]]"
 Dewey_Decimal_Classification: 989
 Commons_category: History of Paraguay
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Paraguay,1121772|WD~History_of_Paraguay,1121772]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Paraguay,1121772|WD~History_of_Paraguay,1121772]]"
 ---
 
 # [[History_of_Paraguay]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Paraguay,1121772|WD~History_of_Paraguay,1121772]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -53,4 +56,21 @@ Commons_category: History of Paraguay
 > The Economist Intelligence Unit rated Paraguay a "hybrid regime" in 2022.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Paraguay) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay|History_of_Paraguay]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.public|History_of_Paraguay.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.internal|History_of_Paraguay.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.protect|History_of_Paraguay.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.private|History_of_Paraguay.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.personal|History_of_Paraguay.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay.secret|History_of_Paraguay.secret]] 
 

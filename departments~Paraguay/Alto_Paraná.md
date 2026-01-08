@@ -41,17 +41,17 @@ markerFolder: ./Alto_Paraná/
 
 ## Confidential Links & Embeds: 
 
-### [Alto_Paraná](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná|Alto_Paraná]] 
 
-### [Alto_Paraná.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.public|Alto_Paraná.public]] 
 
-### [Alto_Paraná.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.internal|Alto_Paraná.internal]] 
 
-### [Alto_Paraná.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.protect|Alto_Paraná.protect]] 
 
-### [Alto_Paraná.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.private|Alto_Paraná.private]] 
 
-### [Alto_Paraná.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.personal|Alto_Paraná.personal]] 
 
-### [Alto_Paraná.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraná.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraná.secret|Alto_Paraná.secret]] 
 

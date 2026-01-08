@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~South/Paraguay/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~South/Paraguay/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~South/Paraguay/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~South/Paraguay/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~South/Paraguay/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~South/Paraguay/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~South/Paraguay/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/License.secret|License.secret]] 
 

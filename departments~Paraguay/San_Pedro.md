@@ -41,17 +41,17 @@ markerFolder: ./San_Pedro/
 
 ## Confidential Links & Embeds: 
 
-### [San_Pedro](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro|San_Pedro]] 
 
-### [San_Pedro.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.public|San_Pedro.public]] 
 
-### [San_Pedro.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.internal|San_Pedro.internal]] 
 
-### [San_Pedro.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.protect|San_Pedro.protect]] 
 
-### [San_Pedro.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.private|San_Pedro.private]] 
 
-### [San_Pedro.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.personal|San_Pedro.personal]] 
 
-### [San_Pedro.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/San_Pedro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/San_Pedro.secret|San_Pedro.secret]] 
 

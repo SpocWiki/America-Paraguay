@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Asunción,2933|WD~Asunción,2933]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Asunción,2933|WD~Asunción,2933]]"
+
 has_time_started: 1537-01-01 
 aliases:
   - Asunción
@@ -131,7 +135,7 @@ geojsonFolder: ./Asunción/
 markerFolder: ./Asunción/
 ```
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Asunción,2933|WD~Asunción,2933]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -160,17 +164,17 @@ markerFolder: ./Asunción/
 
 ## Confidential Links & Embeds: 
 
-### [Asunción](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción|Asunción]] 
 
-### [Asunción.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.public|Asunción.public]] 
 
-### [Asunción.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.internal|Asunción.internal]] 
 
-### [Asunción.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.protect|Asunción.protect]] 
 
-### [Asunción.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.private|Asunción.private]] 
 
-### [Asunción.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.personal|Asunción.personal]] 
 
-### [Asunción.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Asunción.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Asunción.secret|Asunción.secret]] 
 

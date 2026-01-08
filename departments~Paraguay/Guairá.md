@@ -40,17 +40,17 @@ markerFolder: ./Guairá/
 
 ## Confidential Links & Embeds: 
 
-### [Guairá](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá|Guairá]] 
 
-### [Guairá.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.public|Guairá.public]] 
 
-### [Guairá.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.internal|Guairá.internal]] 
 
-### [Guairá.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.protect|Guairá.protect]] 
 
-### [Guairá.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.private|Guairá.private]] 
 
-### [Guairá.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.personal|Guairá.personal]] 
 
-### [Guairá.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Guairá.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Guairá.secret|Guairá.secret]] 
 

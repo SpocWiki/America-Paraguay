@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Paraguayan_War,58947]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Paraguayan_War,58947]]"
+
 has_time_started: 1864-12-27 
 has_time_stopped: 1870-03-01 
 aliases:
@@ -41,7 +45,7 @@ native_label:
 
 # [[1864-Paraguayan_War-1870]] 
 
-#is_/same_as :: [[WD~Paraguayan_War,58947]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -73,4 +77,21 @@ native_label:
 > Argentine and Brazilian troops occupied Paraguay until 1876.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paraguayan%20War) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870|1864-Paraguayan_War-1870]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.public|1864-Paraguayan_War-1870.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.internal|1864-Paraguayan_War-1870.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.protect|1864-Paraguayan_War-1870.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.private|1864-Paraguayan_War-1870.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.personal|1864-Paraguayan_War-1870.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/History_of_Paraguay/1864-Paraguayan_War-1870.secret|1864-Paraguayan_War-1870.secret]] 
 

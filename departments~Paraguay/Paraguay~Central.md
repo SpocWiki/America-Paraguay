@@ -40,17 +40,17 @@ markerFolder: ./Paraguay~Central/
 
 ## Confidential Links & Embeds: 
 
-### [Paraguay~Central](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central|Paraguay~Central]] 
 
-### [Paraguay~Central.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.public|Paraguay~Central.public]] 
 
-### [Paraguay~Central.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.internal|Paraguay~Central.internal]] 
 
-### [Paraguay~Central.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.protect|Paraguay~Central.protect]] 
 
-### [Paraguay~Central.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.private|Paraguay~Central.private]] 
 
-### [Paraguay~Central.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.personal|Paraguay~Central.personal]] 
 
-### [Paraguay~Central.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Paraguay~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Paraguay~Central.secret|Paraguay~Central.secret]] 
 

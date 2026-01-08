@@ -40,17 +40,17 @@ markerFolder: ./Ñeembucú/
 
 ## Confidential Links & Embeds: 
 
-### [Ñeembucú](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú|Ñeembucú]] 
 
-### [Ñeembucú.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.public|Ñeembucú.public]] 
 
-### [Ñeembucú.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.internal|Ñeembucú.internal]] 
 
-### [Ñeembucú.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.protect|Ñeembucú.protect]] 
 
-### [Ñeembucú.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.private|Ñeembucú.private]] 
 
-### [Ñeembucú.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.personal|Ñeembucú.personal]] 
 
-### [Ñeembucú.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Ñeembucú.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Ñeembucú.secret|Ñeembucú.secret]] 
 

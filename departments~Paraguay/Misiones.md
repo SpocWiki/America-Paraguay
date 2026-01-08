@@ -40,17 +40,17 @@ markerFolder: ./Misiones/
 
 ## Confidential Links & Embeds: 
 
-### [Misiones](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones|Misiones]] 
 
-### [Misiones.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.public|Misiones.public]] 
 
-### [Misiones.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.internal|Misiones.internal]] 
 
-### [Misiones.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.protect|Misiones.protect]] 
 
-### [Misiones.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.private|Misiones.private]] 
 
-### [Misiones.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.personal|Misiones.personal]] 
 
-### [Misiones.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Misiones.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Misiones.secret|Misiones.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Presidente_Hayes/
 
 ## Confidential Links & Embeds: 
 
-### [Presidente_Hayes](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes|Presidente_Hayes]] 
 
-### [Presidente_Hayes.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.public|Presidente_Hayes.public]] 
 
-### [Presidente_Hayes.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.internal|Presidente_Hayes.internal]] 
 
-### [Presidente_Hayes.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.protect|Presidente_Hayes.protect]] 
 
-### [Presidente_Hayes.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.private|Presidente_Hayes.private]] 
 
-### [Presidente_Hayes.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.personal|Presidente_Hayes.personal]] 
 
-### [Presidente_Hayes.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes.secret|Presidente_Hayes.secret]] 
 

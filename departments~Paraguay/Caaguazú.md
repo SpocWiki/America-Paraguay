@@ -40,17 +40,17 @@ markerFolder: ./Caaguazú/
 
 ## Confidential Links & Embeds: 
 
-### [Caaguazú](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú|Caaguazú]] 
 
-### [Caaguazú.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.public|Caaguazú.public]] 
 
-### [Caaguazú.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.internal|Caaguazú.internal]] 
 
-### [Caaguazú.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.protect|Caaguazú.protect]] 
 
-### [Caaguazú.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.private|Caaguazú.private]] 
 
-### [Caaguazú.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.personal|Caaguazú.personal]] 
 
-### [Caaguazú.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Caaguazú.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Caaguazú.secret|Caaguazú.secret]] 
 

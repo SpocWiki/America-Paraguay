@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28910
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -57.67
+dv_has_place_latitude: -25.27
+dv_name: Asuncion
+dv_Country: "[[../../../../Paraguay]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-57.67] 
-[has_place_latitude::-25.27] 
-[name::Asuncion] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Paraguay]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Asuncion](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion|Asuncion]] 
 
-### [Asuncion.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.public|Asuncion.public]] 
 
-### [Asuncion.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.internal|Asuncion.internal]] 
 
-### [Asuncion.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.protect|Asuncion.protect]] 
 
-### [Asuncion.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.private|Asuncion.private]] 
 
-### [Asuncion.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.personal|Asuncion.personal]] 
 
-### [Asuncion.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Presidente_Hayes/City/Asuncion.secret|Asuncion.secret]] 
 

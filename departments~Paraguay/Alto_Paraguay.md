@@ -41,17 +41,17 @@ markerFolder: ./Alto_Paraguay/
 
 ## Confidential Links & Embeds: 
 
-### [Alto_Paraguay](/_Standards/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay|Alto_Paraguay]] 
 
-### [Alto_Paraguay.public](/_public/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.public|Alto_Paraguay.public]] 
 
-### [Alto_Paraguay.internal](/_internal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.internal|Alto_Paraguay.internal]] 
 
-### [Alto_Paraguay.protect](/_protect/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.protect|Alto_Paraguay.protect]] 
 
-### [Alto_Paraguay.private](/_private/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.private|Alto_Paraguay.private]] 
 
-### [Alto_Paraguay.personal](/_personal/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.personal|Alto_Paraguay.personal]] 
 
-### [Alto_Paraguay.secret](/_secret/Earth/Continent/America~South/Paraguay/departments~Paraguay/Alto_Paraguay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay/departments~Paraguay/Alto_Paraguay.secret|Alto_Paraguay.secret]] 
 
