@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -57.67
 dv_has_place_latitude: -25.27
-dv_name: Asuncion
+dv_has_name_: Asuncion
 dv_Country: "[[../../../../Paraguay]]"
 ---
 #is_a_/Place  

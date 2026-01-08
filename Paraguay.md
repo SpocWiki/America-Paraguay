@@ -40,15 +40,13 @@ dv_ISO4217-currency_country_name: PARAGUAY
 dv_Telephone: 595
 dv_Global: true
 dv_Global_Name: World
-dv_name: Paraguay
-dv_name-en:
-  - Paraguay
-  - Paraguay
-dv_name-es: Paraguay
-dv_name-fr: Paraguay
-dv_name-cn: 巴拉圭
-dv_name-ar: باراغواي
-dv_name-ru: Парагвай
+dv_has_name_: Paraguay
+dv_has_name_en: Paraguay
+dv_has_name_es: Paraguay
+dv_has_name_fr: Paraguay
+dv_has_name_cn: 巴拉圭
+dv_has_name_ar: باراغواي
+dv_has_name_ru: Парагвай
 dv_CLDR_display_name: Paraguay
 dv_UNTERM_English: Paraguay
 dv_UNTERM_English_Formal: the Republic of Paraguay
@@ -87,7 +85,7 @@ dv_Land_Locked_Developing_Countries: x
 dv_ISO3166-1-numeric: 600
 dv_ISO2: PY
 dv_ISO3: PRY
-dv_name-de: Paraguay
+dv_has_name_de: Paraguay
 dv_Area-Total: 406752
 dv_Area-Land: 397300
 dv_Continent: "[[South-America]]"
@@ -114,12 +112,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Paraguay ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Paraguay ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: ./Paraguay//
 markerFolder: ./Paraguay/
 ```
 
-[name-en::Paraguay] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Paraguay] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 
